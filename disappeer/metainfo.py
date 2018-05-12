@@ -14,6 +14,6 @@ version = '0.1.0'
 
 license = 'GPLv3'
 
-github = 'http://github.com/xxxxxx'
+github = 'https://github.com/disappeerlabs/disappeer'
 
 email = 'disappeerlabs@gmail.com'
