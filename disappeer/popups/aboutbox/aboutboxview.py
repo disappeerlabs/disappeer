@@ -27,9 +27,9 @@ class AboutBoxView:
         self.window = window
         self.window.columnconfigure(0, weight=1)
         self.window.rowconfigure(0, weight=1)
-        self.window.geometry('300x300')
-        self.window.minsize(width=400, height=300)
-        self.window.maxsize(width=400, height=300)
+        self.window.geometry('500x300')
+        self.window.minsize(width=500, height=300)
+        self.window.maxsize(width=500, height=300)
         self.setup()
 
     def setup(self):
