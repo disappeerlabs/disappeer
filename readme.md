@@ -41,13 +41,13 @@ Then run from the command line with:
 	disappeer
 
 ## TOR Configuration
-Your TOR service must be properly configured so that disappeer can proxy through it. In your `torrc` file, you must have thse two lines uncommented:
+Your TOR service must be properly configured so that disappeer can proxy through it. In your `torrc` file, you must have these two lines uncommented:
 
 	ControlPort 9051
 	CookieAuthentication 1
 
 ## Unit Test Suite
-As stated above, Disappeer was created using a test-driven development methodology. Disappeer's test suite contains over 2300 tests, utilizing Python's built-in `unittest` framework. To run the test suite, after installing both the requirements and the project itself, `cd` into `disappeer/disappeer` and run:
+As stated above, Disappeer was created using a test-driven development methodology. Disappeer's test suite contains over 2400 tests, utilizing Python's built-in `unittest` framework. To run the test suite, after installing both the requirements and the project itself, `cd` into `disappeer/disappeer` and run:
 
 	TESTING=1 python -m unittest
 
@@ -112,7 +112,7 @@ Disappeer allows for the creation of an arbitrary number of user identities via 
 It also allows for the use of persistent Tor .onion address keys that can be associated with specific user identities. 
 
 # The Interface
-We'll provide some general info on the GUI interface.
+Some general info on the GUI interface.
 
 ## Main Console
 The main console contains a toolbar and a text entry field. 
