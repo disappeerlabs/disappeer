@@ -68,7 +68,7 @@ A prepackaged, fully-functioning instance of Disappeer can be found in the provi
 ***
 
 # Overview
-##G PG Functionality
+## GPG Functionality
 
 Disappeer provides a graphical interface to basic GPG functionality such as:
 
