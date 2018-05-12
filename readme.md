@@ -55,7 +55,9 @@ As stated above, Disappeer was created using a test-driven development methodolo
 GPLv3
 
 ##  Demo
-A prepackaged, fully-funtioning instance of Disappeer can be found in the provided Debian VirtualBox virtual machine. To check out the demo:
+
+### THIS IS STILL TODO
+A prepackaged, fully-functioning instance of Disappeer can be found in the provided Debian VirtualBox virtual machine. To check out the demo:
 
 * Download and unpack the virtual machine file. 
 * Import the appliance to VirtualBox or any other suitable virtualization application.
