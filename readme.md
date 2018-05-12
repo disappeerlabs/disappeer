@@ -1,11 +1,11 @@
-#Disappeer
+# Disappeer
 
 #### Disappeer is a pure Python GUI application that provides:
 
 * an interface to basic GPG functionality 
 * peer-to-peer, GPG-encrypted messaging over Tor  
 
-##Requirements
+## Requirements
 
 Disappeer has been developed and tested for use on Debian. To access all of Disappeer's functionality, your system must have:
 
@@ -23,12 +23,12 @@ Depending on your system, you may also need to install Python's `tkinter` module
 
 It goes without saying that you should use a virtual environment if you opt to install Disappeer on your system.  
 
-##Goals
+## Goals
 Disappeer is experimental software.
 
 The overarching goal of this project was to practice test-driven development of a non-trivial, pure Python GUI application, utilizing as few external libraries as possible, with an object-oriented design and a discrete number of worthwhile use cases, namely: access to basic GPG functionality and encrypted peer-to-peer messaging over TOR. A sub-goal was to create a decent-looking GUI interface using only the Python standard library's tkinter module. 
 
-##Installation
+## Installation
 If you wish to install Disappeer, download the project. Then `cd` into outermost directory and run: 
 	
 	pip install -r requirements.txt
@@ -40,21 +40,21 @@ Then run from the command line with:
 
 	disappeer
 
-##TOR Configuration
+## TOR Configuration
 Your TOR service must be properly configured so that disappeer can proxy through it. In your `torrc` file, you must have thse two lines uncommented:
 
 	ControlPort 9051
 	CookieAuthentication 1
 
-##Unit Test Suite
+## Unit Test Suite
 As stated above, Disappeer was created using a test-driven development methodology. Disappeer's test suite contains over 2300 tests, utilizing Python's built-in `unittest` framework. To run the test suite, after installing both the requirements and the project itself, `cd` into `disappeer/disappeer` and run:
 
 	TESTING=1 python -m unittest
 
-##License
+## License
 GPLv3
 
-##Demo
+##  Demo
 A prepackaged, fully-funtioning instance of Disappeer can be found in the provided Debian VirtualBox virtual machine. To check out the demo:
 
 * Download and unpack the virtual machine file. 
@@ -80,7 +80,7 @@ Disappeer provides a graphical interface to basic GPG functionality such as:
 * message signing
 * signature verification
 
-##Messaging Functionality
+## Messaging Functionality
 
 Disappeer provides for peer-to-peer, GPG-encrypted messaging over Tor.
 
@@ -194,7 +194,7 @@ To allow someone to send you a contact request, provide them with the .onion add
 
 Both nodes must be online at the same time to successfully send/receive messages after a two-way contact is established.  
 
-##Requests Tab
+## Requests Tab
 To send a contact request to a remote peer, click **New Contact Request** and enter the .onion address of the peer's **Request Server** in the popup menu. If the peer provides a port different from the default, enter that too. Click **Send**. 
 
 If the request successfully reaches the remote peer, the request will appear in your **Sent Requests** list. If and when the remote peer accepts your request, this listing will disappear from your **Sent Requests** list, and the peer's **Host Key** user info will be added to the **Contacts** list under the **Message** tab.
@@ -203,7 +203,7 @@ If someone sends you a peer request, this request will appear under the **Receiv
 
 When you receive your first message from that peer, they will be added to your **Contacts** list, and you will be able to send a message to them. 
 
-##Messages Tab
+## Messages Tab
 When someone sends you a message, that message will appear under the **Received** heading in the **Messages** frame. Click the item, and it will display the message in a popup. When a peer sends you a message for the first time, that peer will be added to the **Contacts** list below.
 
 Once you have successfully established a contact with a remote peer, the peer will be listed in your **Contacts** list. Click on an individual contact to see info on the peer. 
