@@ -6,4 +6,5 @@ scratch/
 reports/
 __pycache__/
 *.egg-info/
-*/tests/data/*
+
+

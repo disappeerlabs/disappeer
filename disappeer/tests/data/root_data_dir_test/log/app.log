@@ -1,0 +1,1472 @@
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,305.305][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,307.307][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,315.315][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,317.317][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,327.327][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,329.329][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,358.358][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:46:22,398.398][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,461.461][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,463.463][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,473.473][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,474.474][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,484.484][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,485.485][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,513.513][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 12:51:47,555.555][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,429.429][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,431.431][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,442.442][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,445.445][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,454.454][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,456.456][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,483.483][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:00:47,530.530][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,943.943][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Message_Server'}
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,944.944][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,952.952][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Request_Server'}
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,953.953][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,961.961][handle_tor_proxy_error][tornetcontroller][ln:182]
+    ERROR: Tor Proxy Error: {'desc': 'Tor_Proxy_Error', 'error': ConnectionRefusedError(111, 'Connection refused'), 'name': 'Tor_Proxy_Response_Server'}
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,962.962][handle_tor_proxy_error][tornetcontroller][ln:183]
+    DEBUG: Is your local TOR service running?
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:24,990.990][handle_queue_payload][tornetcontroller][ln:63]
+    ERROR: TorNetController QUEUE UNHANDLED PAYLOAD: {'desc': ''}
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
+[2018-04-28 13:33:25,032.32][launch_alert_log][tornetcontroller][ln:199]
+    WARNING: hello
