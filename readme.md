@@ -153,7 +153,7 @@ The left sidebar contains a number of tab views that provide access basic functi
 * Messages: Peer Contacts
 
 ## GPG Tab
-You can access basic GPG key management under the GPG tab in the left sidebar.
+You can access basic GPG key management functionality under the GPG tab in the left sidebar.
 
 ### Home Directory
 
