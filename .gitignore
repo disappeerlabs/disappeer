@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+.DS_Store
+scratch/
+.coverage
+reports/
+__pycache__/
+*.egg-info/
+*/tests/data/*
