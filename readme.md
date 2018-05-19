@@ -130,14 +130,6 @@ The main console contains a toolbar and a text entry field.
 ### The Toolbar
 
 The first three **icon buttons** in the toolbar allow you to: 
-<br>
-
-<img align="left" src="disappeer/images/save_icon.png">
-<img align="left" src="disappeer/images/open_icon.png">
-<img align="left" src="disappeer/images/delete_icon.png">
-
-<br>
-
 
 * save the current text in the text area to a file;
 * open a file and display its contents in the text area;
