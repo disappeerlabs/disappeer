@@ -40,7 +40,13 @@ Your TOR service must be properly configured so that disappeer can proxy through
 	ControlPort 9051
 	CookieAuthentication 1
 
-To access tor networking functionality, the user that runs `disappeer` from the command line must first be added to the debian-tor user group. After adding this user to the debian-tor group, you may need to restart your tor service or reboot your system.
+Remember to restart your tor service after updating your `torrc` file!
+
+To access tor networking functionality, the user that runs `disappeer` from the command line must also be added to the debian-tor user group. For example:
+
+	sudo usermod -a -G debian-tor YourUserName
+
+After adding this user to the debian-tor group, you may need to log out, and then log back in, for the change to take effect.
 
 ## Installation
 If you wish to install Disappeer, download the project. Then `cd` into outermost directory and run: 
