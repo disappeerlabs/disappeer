@@ -1,9 +1,20 @@
+<p align="center">
+  <img src="disappeer/images/logo_icon_large.png">
+</p>
+
 # Disappeer
 
 #### Disappeer is a pure Python GUI application that provides:
 
 * an interface to basic GPG functionality 
 * peer-to-peer, GPG-encrypted messaging over Tor  
+
+![gpg_tab](https://user-images.githubusercontent.com/38816908/40272041-b3b580a2-5b74-11e8-9e69-f37401bf62eb.png)
+
+## Goals
+Disappeer is experimental software.
+
+The overarching goal of this project was to practice test-driven development of a non-trivial, pure Python GUI application, utilizing as few external libraries as possible, with an object-oriented design and a discrete number of worthwhile use cases, namely: access to basic GPG functionality and encrypted peer-to-peer messaging over TOR. A sub-goal was to create a decent-looking GUI interface using only the Python standard library's tkinter module. 
 
 ## Requirements
 
@@ -23,10 +34,13 @@ Depending on your system, you may also need to install Python's `tkinter` module
 
 It goes without saying that you should use a virtual environment if you opt to install Disappeer on your system.  
 
-## Goals
-Disappeer is experimental software.
+## TOR Configuration
+Your TOR service must be properly configured so that disappeer can proxy through it. In your `torrc` file, you must have these two lines uncommented:
 
-The overarching goal of this project was to practice test-driven development of a non-trivial, pure Python GUI application, utilizing as few external libraries as possible, with an object-oriented design and a discrete number of worthwhile use cases, namely: access to basic GPG functionality and encrypted peer-to-peer messaging over TOR. A sub-goal was to create a decent-looking GUI interface using only the Python standard library's tkinter module. 
+	ControlPort 9051
+	CookieAuthentication 1
+
+To access tor networking functionality, the user that runs `disappeer` from the command line must first be added to the debian-tor user group. After adding this user to the debian-tor group, you may need to restart your tor service or reboot your system.
 
 ## Installation
 If you wish to install Disappeer, download the project. Then `cd` into outermost directory and run: 
@@ -39,14 +53,6 @@ Add the `-e` flag to the final install command above, as you may need to edit ba
 Then run from the command line with:
 
 	disappeer
-
-## TOR Configuration
-Your TOR service must be properly configured so that disappeer can proxy through it. In your `torrc` file, you must have these two lines uncommented:
-
-	ControlPort 9051
-	CookieAuthentication 1
-
-To access tor networking functionality, the user that runs `disappeer` from the command line must first be added to the debian-tor user group. After adding this user to the debian-tor group, you may need to restart your tor service or reboot your system.
 
 ## Unit Test Suite
 As stated above, Disappeer was created using a test-driven development methodology. Disappeer's test suite contains over 2400 tests, utilizing Python's built-in `unittest` framework. To run the test suite, after installing both the requirements and the project itself, `cd` into `disappeer/disappeer` and run:
@@ -116,11 +122,22 @@ It also allows for the use of persistent Tor .onion address keys that can be ass
 # The Interface
 Some general info on the GUI interface.
 
+![gpg_tab](https://user-images.githubusercontent.com/38816908/40272041-b3b580a2-5b74-11e8-9e69-f37401bf62eb.png)
+
 ## Main Console
 The main console contains a toolbar and a text entry field. 
 
 ### The Toolbar
+
 The first three **icon buttons** in the toolbar allow you to: 
+<br>
+
+<img align="left" src="disappeer/images/save_icon.png">
+<img align="left" src="disappeer/images/open_icon.png">
+<img align="left" src="disappeer/images/delete_icon.png">
+
+<br>
+
 
 * save the current text in the text area to a file;
 * open a file and display its contents in the text area;
@@ -157,6 +174,8 @@ The left sidebar contains a number of tab views that provide access basic functi
 ## GPG Tab
 You can access basic GPG key management functionality under the GPG tab in the left sidebar.
 
+![gpg_tab](https://user-images.githubusercontent.com/38816908/40272041-b3b580a2-5b74-11e8-9e69-f37401bf62eb.png)
+
 ### Home Directory
 
 Under the GPG tab, select your desired home directory for your node's key ring by clicking the **Home Entry Field**, or simply use the default directory. If no key ring exists in this directory, an empty key ring will be created when it is selected. 
@@ -177,6 +196,10 @@ Create a new key by clicking the **New Key** button, filling out the popup form 
 Delete a key from the current key ring by clicking the **Delete Key** button, checking the desired key for deletion in the popup check button list, and then clicking **Delete**. This action cannot be undone!
 
 ## Network Tab
+
+The network tab provides and interface to networking functionality.
+
+![network_tab](https://user-images.githubusercontent.com/38816908/40272056-e0acb882-5b74-11e8-956a-2da44664b0af.png)
 
 ### Network Services
 A Disappeer node runs three different network servers for contact requests, contact responses and messages. You can start and stop the node's servers by clicking **Start** and **Stop** in the **Network Services** frame. Note, these servers only listen on the loopback interface. Traffic is routed to these servers by the Tor proxy. 
@@ -199,6 +222,12 @@ To allow someone to send you a contact request, provide them with the .onion add
 Both nodes must be online at the same time to successfully send/receive messages after a two-way contact is established.  
 
 ## Requests Tab
+The requests tab provides functionality to contact network peers.
+
+![requests_tab](https://user-images.githubusercontent.com/38816908/40272059-fc6de456-5b74-11e8-9142-92ee8ef02d71.png)
+
+### Contact Requests
+
 To send a contact request to a remote peer, click **New Contact Request** and enter the .onion address of the peer's **Request Server** in the popup menu. If the peer provides a port different from the default, enter that too. Click **Send**. 
 
 If the request successfully reaches the remote peer, the request will appear in your **Sent Requests** list. If and when the remote peer accepts your request, this listing will disappear from your **Sent Requests** list, and the peer's **Host Key** user info will be added to the **Contacts** list under the **Message** tab.
@@ -208,7 +237,16 @@ If someone sends you a peer request, this request will appear under the **Receiv
 When you receive your first message from that peer, they will be added to your **Contacts** list, and you will be able to send a message to them. 
 
 ## Messages Tab
+
+The messages tab provides access to sent and received messages and to your peer contacts list.
+
+![messages_tab](https://user-images.githubusercontent.com/38816908/40272070-3ab71bba-5b75-11e8-9a64-ed6bd9e1875e.png)
+
+
+### Sent and Received Messages
 When someone sends you a message, that message will appear under the **Received** heading in the **Messages** frame. Click the item, and it will display the message in a popup. When a peer sends you a message for the first time, that peer will be added to the **Contacts** list below.
+
+### Contacts
 
 Once you have successfully established a contact with a remote peer, the peer will be listed in your **Contacts** list. Click on an individual contact to see info on the peer. 
 
