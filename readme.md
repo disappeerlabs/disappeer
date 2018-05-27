@@ -68,10 +68,15 @@ As stated above, Disappeer was created using a test-driven development methodolo
 ## License
 GPLv3
 
-##  Demo
+##  QuickStart Demo
 
-### THIS IS STILL TODO
-A prepackaged, fully-functioning instance of Disappeer can be found in the provided Debian VirtualBox virtual machine. To check out the demo:
+A prepackaged, fully-functioning instance of Disappeer, with preconfigured tor service, can be found in the Debian VirtualBox virtual machine at the following link: 
+
+[Download Link for Debian Disappeer Demo Virtual Machine](https://mega.nz/#!MWJQUIIT!4dYBfNdv__40lTHcGP9KNqfsS1SAKOwaK8vPRr4h21s)
+
+Once you have downloaded the file, you may wish to check the sha1sum of the downloaded .zip: a3604d9a89416ddfed9b0c75f13aeab03e356332
+
+To check out the demo:
 
 * Download and unpack the virtual machine file. 
 * Import the appliance to VirtualBox or any other suitable virtualization application.
