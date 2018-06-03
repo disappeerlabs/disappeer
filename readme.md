@@ -20,7 +20,7 @@ The overarching goal of this project was to practice test-driven development of 
 
 Disappeer has been developed and tested for use on Debian. To access all of Disappeer's functionality, your system must have:
 
-* Python >=3.4, installed by default on Debian
+* Python >=3.5, installed by default on Debian
 * GPG, installed by default on Debian
 * a properly configured, running Tor service
 
