@@ -3,14 +3,14 @@ metainfo.py
 
 Disappeer Meta Info
 
-Copyright (C) 2021 Disappeer Labs
+Copyright (C) 2018 Disappeer Labs
 License: GPLv3
 """
 
 
 title = 'Disappeer'
 
-version = '0.2.0'
+version = '0.1.0'
 
 license = 'GPLv3'
 
