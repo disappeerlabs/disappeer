@@ -7,18 +7,21 @@ Copyright (C) 2021 Disappeer Labs
 License: GPLv3
 """
 
-import tkinter
-import sys
+import argparse
+import sys 
+from disappeer.root.rootapp import RootApp
 
 
-class App:
-    def __init__(self):
-        pass
+def parse_args(args):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--home_dir', help='home directory')
+    return parser.parse_args(args)
 
 
 def main():
-    pass
-
+    args = parse_args(sys.argv[1:])
+    app = RootApp(args)
+    app.run()
 
 
 if __name__ == '__main__':
