@@ -42,9 +42,10 @@ class TestMainFunction(unittest.TestCase):
     
     def setUp(self):
         self.target_func = __main__.main
-    
+
+    @patch('disappeer.__main__.RootApp')
     @patch('disappeer.__main__.parse_args')
-    def test_main_calls_parse_args_with_sysv_args(self, parse_args_patch):
+    def test_main_calls_parse_args_with_sysv_args(self, parse_args_patch, root_app_patch):
         testargs = [1, 2, 3]
         with patch.object(sys, 'argv', testargs):
             o = self.target_func()
