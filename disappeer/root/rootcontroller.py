@@ -10,6 +10,7 @@ License: GPLv3
 from dptools.tkcomponents.baseapp import basecontroller, basepanelview
 from dptools.tkcomponents import debugwidget
 from disappeer import metainfo
+from disappeer.components import gpg
 
 
 class RootController(basecontroller.BaseController):
@@ -18,6 +19,7 @@ class RootController(basecontroller.BaseController):
         basecontroller.BaseController.__init__(self, args=args, root=root)
         self.root = root 
         self.args = args
+        self.gpg_controller = self.add_widget_left_panel(gpg)
         self.debug = self.add_widget_left_panel(debugwidget)
         self.debug.click_debug_1_override(self.debug_1_override)
         self.debug.click_debug_2_override(self.debug_2_override)

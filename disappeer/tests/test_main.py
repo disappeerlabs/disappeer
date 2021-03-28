@@ -41,7 +41,13 @@ class TestParseArgs(unittest.TestCase):
 class TestMainFunction(unittest.TestCase):
     
     def setUp(self):
+        self.temp_dir = tempfile.TemporaryDirectory()
+        arg_list = ['--home_dir', self.temp_dir.name]
+        self.args = __main__.parse_args(arg_list)
         self.target_func = __main__.main
+
+    def tearDown(self):
+        self.temp_dir.cleanup()
 
     @patch('disappeer.__main__.RootApp')
     @patch('disappeer.__main__.parse_args')
@@ -61,9 +67,8 @@ class TestMainFunction(unittest.TestCase):
 
     @patch('disappeer.__main__.RootApp.run')
     def test_main_calls_run_on_root_app(self, patch_root_app_run):
-        val = [1, 2, 3, 4]
         with patch.object(__main__, 'parse_args') as m1:
-            m1.return_value = val
+            m1.return_value = self.args
             self.target_func()
             patch_root_app_run.assert_called_with()
 
