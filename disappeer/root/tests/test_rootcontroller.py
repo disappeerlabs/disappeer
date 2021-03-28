@@ -19,7 +19,6 @@ class TestRootController(unittest.TestCase):
         self.temp_dir = tempfile.TemporaryDirectory()
         arg_list = ['--home_dir', self.temp_dir.name]
         self.args = parse_args(arg_list)
-        self.args = parse_args(arg_list)
         self.mock_root = MagicMock()
         self.x = rootcontroller.RootController(args=self.args, root=self.mock_root)
     

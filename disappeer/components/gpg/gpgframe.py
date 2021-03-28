@@ -49,3 +49,6 @@ class GPGFrame(tkinter.Frame):
                                             state='readonly',
                                             **styling.entry_field_readonly_args)
         self.home_dir_entry.grid(row=0, column=1, sticky=styling.sticky_ew, ipady=1)
+
+    def bind_home_dir_entry(self, command, function):
+        self.home_dir_entry.bind(command, function)

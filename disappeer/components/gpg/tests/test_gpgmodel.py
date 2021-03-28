@@ -67,3 +67,21 @@ class TestGPGModelBasic(unittest.TestCase):
         target = result.get()
         check = self.x.home_dir_observable.get()
         self.assertEqual(target, check)
+
+    def test_add_home_dir_observer_adds_observer_to_home_dir_observable(self):
+        sub = MagicMock()
+        self.x.add_home_dir_observer(sub)
+        self.assertIn(sub, self.x.home_dir_observable.observer_list)
+    
+    def test_set_home_dir_observable_sets_var(self):
+        val = '1234yrth5'
+        self.x.set_home_dir_observable(val)
+        o = self.x.home_dir_observable.get()
+        self.assertEqual(o, val)
+
+    def test_get_home_dir_observable_gets_var(self):
+        val = '1234yrth5'
+        self.x.set_home_dir_observable(val)
+        o = self.x.get_home_dir_observable()
+        self.assertEqual(o, val)
+

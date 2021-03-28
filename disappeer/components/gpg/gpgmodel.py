@@ -37,3 +37,12 @@ class GPGModel(basemodel.BaseModel):
 
     def set_permissions(self, path):
         os.chmod(path, 0o700)
+
+    def add_home_dir_observer(self, observer):
+        self.home_dir_observable.add_observer(observer)
+
+    def set_home_dir_observable(self, val):
+        self.home_dir_observable.set(val)
+    
+    def get_home_dir_observable(self): 
+        return self.home_dir_observable.get()
